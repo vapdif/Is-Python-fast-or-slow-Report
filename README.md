@@ -1,0 +1,3 @@
+# Is-Python-fast-or-slow-Report 
+
+# The purpose of the task is to demonstrate the effectiveness of Python libraries, particularly through the example of array manipulations and mathematical operations. It compares two methods: manually coding iterations for operations such as matrix multiplication or array product on 1-D and 2-D arrays, versus using the NumPy library. NumPy, known for its efficiency and simplicity, is commonly used in scientific and engineering contexts for numerical operations and handling arrays. This task aims to highlight the advantages of utilizing such specialized libraries over traditional iterative programming techniques.
